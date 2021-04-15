@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.2)
-project(yuyv_to_rgb)
+project(yuv_to_rgb)
 
 add_definitions(-std=c++14)
 
